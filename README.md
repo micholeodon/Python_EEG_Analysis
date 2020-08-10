@@ -24,7 +24,7 @@ All of these steps are covered in this project.
 
 - install [MNE software for Python](https://mne.tools/stable/install/index.html)
 - install [Jupyter Notebook - Getting started with classic Jupyter Notebook](https://jupyter.org/install.html)
-- after cloning repository to your local site, uncompress data.zip (1.3 GB of data)
+- after cloning repository to your local site, uncompress `data.tar.gz` (1.3 GB of data)
 
 <img src="img/logo_mne.png" height=100>
 <img src="img/logo_jupyter.png" height=100>
